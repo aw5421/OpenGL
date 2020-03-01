@@ -1,1 +1,1 @@
-# My OpenGL adventures Kapa
+# My OpenGL adventures Kappa
